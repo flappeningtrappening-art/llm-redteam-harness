@@ -3,3 +3,8 @@ __pycache__/
 results.json
 baseline.json
 report.md
+sample/
+samples/
+/tmp/
+*.tmp
+*.log
